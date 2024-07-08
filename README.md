@@ -21,9 +21,6 @@ SessionID: Kiqldke819h7uKqpw8ajkwIq8193jakKs
 - Auto-updates Profile Picture to an **AI-Generated Human Face**.
 - Sets a random **AI-Generated Biography** on account creation.
 
-## Contact Me
-**Email:** sonniiii@outlook.com<br>
-**Discord:** **@gitdiezo**
 
 ## Legal
 This tool is for educational purposes only. Use of such tools may violate Instagram's Policies, so use it responsibly.
